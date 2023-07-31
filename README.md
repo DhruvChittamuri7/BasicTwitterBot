@@ -1,6 +1,10 @@
 # BasicTwitterBot
-Script that takes in particular text and tweets it it out. 
+Basic python script that takes text and tweets it out.
 
+Open Secret.py
+Place API Keys in there
+
+To Get Keys:
 Create a developer account on Twitter. Then create a project and an app to get the necessary keys for an account.
 
-Place the keys, then you can you use this basic interface to upload a tweet.
+
